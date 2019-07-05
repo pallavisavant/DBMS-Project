@@ -1,0 +1,15 @@
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+Select Drug;p;p;;;0
+TOTAL;;;;;0
+TOTAL;;;;;
+p;p;p;;99;0
+TOTAL;;;;;7623
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;

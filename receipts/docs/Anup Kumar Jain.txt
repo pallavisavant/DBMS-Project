@@ -1,0 +1,31 @@
+Select Drug;33;dd;22;;0
+Select Drug;33;dd;22;;0
+xxx;33;dd;22;222;4884
+qaa;33;dd;22;2444;53768
+Select Drug;hhjj;fghh;22;;0
+pallavi;33;dd;22;222;4884
+qaa;33;dd;22;2444;53768
+xxx;33;dd;;222;0
+xxx;33;dd;;222;0
+xxx;33;dd;;222;0
+xxx;33;dd;;222;0
+TOTAL;;;;;26862
+TOTAL;;;;;26862
+TOTAL;;;;;26862
+xxx;33;dd;;222;0
+TOTAL;;;;;4884
+xxx;33;dd;;2444;0
+TOTAL;;;;;26884
+xxx;33;dd;;2444;0
+TOTAL;;;;;26884
+xxx;33;dd;;2444;0
+TOTAL;;;;;53768
+xxx;33;dd;;2444;0
+xxx;33;dd;;2444;0
+TOTAL;;;;;53768
+xxx;33;dd;;222;0
+TOTAL;;;;;4884
+pallavisacavabhahah;33;dd;;222;0
+TOTAL;;;;;4884
+xxx;33;dd;;222;0
+TOTAL;;;;;4884

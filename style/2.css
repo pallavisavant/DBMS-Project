@@ -1,0 +1,91 @@
+body{
+margin-top: 0px;
+padding-top: 0px;}
+#content{
+margin-left: auto;
+margin-right: auto;
+
+width: 900px;
+height: 600px;
+}
+#header {
+
+background: black;
+
+}
+#header h1{
+margin: 0px;
+padding-top: 5px;
+margin-left: 200px;
+background:black;
+color:white;
+border:1px solid white;
+}
+#header  img {float:left; height: 90px; width: 150px;}
+#left_column {
+clear: all;
+float: left;
+width: 200px;
+height: 550px;
+background: black;
+border: 1px solid white;
+
+}
+
+#main {
+clear: all;
+width: 780px;
+height: 470px;
+background: black;
+}
+
+/*Vertical Menu*/
+#button {
+width: 12.5em;
+
+padding: 0 0 1em 0;
+
+
+font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-serif;
+background-color: black;
+color: white;
+}
+#button ul{
+list-style: none;
+margin: 0; 
+padding: 0;
+border: none;
+}
+#button li{
+
+margin: 0;
+list-style: none;
+list-style-image: none;
+}
+#button li a{
+display: block;
+padding: 5px 5px 5px 0.5em;
+
+background-color: black;
+color: white;
+border:0.2px solid white;
+text-decoration: none;
+width: 100%;
+}
+html>body #button li a{
+width: auto;
+}
+#button li a:hover {
+display:block;
+background-color: black;
+color:white;
+}
+
+#footer{
+width: 900px;
+height: 55px;
+background: black;
+clear: all;
+
+}
+

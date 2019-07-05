@@ -1,0 +1,4 @@
+Select Drug;22;uuuu;;;0
+TOTAL;;;;;0
+Select Drug;22;uuuu;;;0
+TOTAL;;;;;0
